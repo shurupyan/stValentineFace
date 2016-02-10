@@ -1,0 +1,5 @@
+<properties>
+	<property id="ForegroundColor" type="number">0xFF0000</property>
+	<property id="topLabel" type="string">Nadya</property>
+	<property id="bottomLabel" type="string">I love you!!!</property>
+</properties>

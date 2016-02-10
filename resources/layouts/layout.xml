@@ -1,0 +1,9 @@
+<layout id="WatchFace">
+	<drawable class="Background" />
+	<label id="TimeLabel" x="center" y="center" font="Gfx.FONT_NUMBER_THAI_HOT"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="topLabel" x="center" y="0" font="Gfx.FONT_LARGE"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+	<label id="bottomLabel" x="center" y="120" font="Gfx.FONT_LARGE"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+</layout>
